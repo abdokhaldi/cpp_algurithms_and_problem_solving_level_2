@@ -8,9 +8,11 @@ string ReadPassword(string message) {
     string Password = "";
     cout << message;
     cin >> Password;
+
     return Password;
 }
-bool printAllWordsFromAAA_to_ZZZ(string OriginalPassword) {
+
+bool GessPassword(string OriginalPassword) {
     string Word = "";
     int counter = 0;
     for (int i = 65; i <= 90; i++) {
@@ -43,6 +45,6 @@ bool printAllWordsFromAAA_to_ZZZ(string OriginalPassword) {
 
 int main()
 {
-    printAllWordsFromAAA_to_ZZZ(ReadPassword("enter password : \n"));
+    GessPassword(ReadPassword("enter password : \n"));
 }
 
