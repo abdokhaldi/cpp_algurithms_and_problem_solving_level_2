@@ -1,0 +1,3 @@
+﻿  problem20_random_S-leter_C-leter_S-char_digit.cpp
+C:\Users\Hp\source\repos\problem20_random_S-leter_C-leter_S-char_digit\problem20_random_S-leter_C-leter_S-char_digit.cpp(34): warning C4715: 'GetRandomNumber': not all control paths return a value
+  problem20_random_S-leter_C-leter_S-char_digit.vcxproj -> C:\Users\Hp\source\repos\problem20_random_S-leter_C-leter_S-char_digit\x64\Debug\problem20_random_S-leter_C-leter_S-char_digit.exe
