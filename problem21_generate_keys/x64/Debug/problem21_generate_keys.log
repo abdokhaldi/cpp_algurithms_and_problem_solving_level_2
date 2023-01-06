@@ -1,0 +1,3 @@
+﻿  problem21_generate_keys.cpp
+C:\Users\Hp\source\repos\problem21_generate_keys\problem21_generate_keys.cpp(33): warning C4715: 'GetRandomCharacter': not all control paths return a value
+  problem21_generate_keys.vcxproj -> C:\Users\Hp\source\repos\problem21_generate_keys\x64\Debug\problem21_generate_keys.exe
